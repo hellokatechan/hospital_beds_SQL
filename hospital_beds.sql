@@ -134,3 +134,7 @@ WHERE bed_id = 15 AND bed_fact.ims_org_id IN(SELECT bed_fact.ims_org_id FROM bed
 GROUP BY business_name
 ORDER BY SUM(staffed_beds) DESC LIMIT 10; 
 
+-- test line
+SELECT * 
+FROM bed_fact
+
