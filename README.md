@@ -8,4 +8,6 @@ Leadership wants to launch an intervention to hire more nurses in the hospital n
 
 For this first intervention pilot program, the data analyst will need to identify hospital sites that have sufficient volumn of ICU and SICU beds as defined by three types of beds: license beds, census beds, and staffed beds. 
 
-## :dart: Dimensional modeling and data warehousing 
+## :label: Dimensional modeling and data warehousing 
+
+<img width="573" alt="ERD" src= https://raw.githubusercontent.com/hellokatechan/hospital_beds_SQL/main/MARKDOWN/hospital_EDR.png>
