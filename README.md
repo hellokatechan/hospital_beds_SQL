@@ -11,3 +11,13 @@ For this first intervention pilot program, the data analyst will need to identif
 ## :label: Dimensional modeling and data warehousing 
 
 <img width="573" alt="ERD" src= https://raw.githubusercontent.com/hellokatechan/hospital_beds_SQL/main/MARKDOWN/hospital_EDR.png>
+
+## :label: Project outcomes
+<details>
+<summary>
+Click to view project outcomes
+  
+</summary>
+  1. Identifies what type of variable would be a fact and what type of variable would be a dimension in the context of dimension tables and fact tables.
+  2. Sketches a Star Schema using MySQL. Schema includes data tables of interest and the appropriate joins between the tables that can be used to answer the business questions.
+</details>
